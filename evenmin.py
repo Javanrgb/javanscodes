@@ -11,3 +11,4 @@ for i in range(5):
         print("An odd one bro")
     waiting_time=random.randint(1,60)
     time.sleep(waiting_time)
+@Javan
